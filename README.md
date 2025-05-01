@@ -1,6 +1,6 @@
-# Projeto_final
+# Final Project
 
-## Membros
+## Members
 - Bruno Silva (a100828)
 - Ema Martins (a97678)
 - Henrique Malheiro (a97455)
