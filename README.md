@@ -1,4 +1,4 @@
-# projeto_final
+# Projeto_final
 
 ## Membros
 - Bruno Silva (a100828)
@@ -6,9 +6,6 @@
 - Henrique Malheiro (a97455)
 - Manuel Serrano (a100825)
 - Marta Gonçalves (a100593)
-
-## Nota
-.../20
 
 ## Project setup
 ```
